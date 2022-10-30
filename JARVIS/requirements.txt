@@ -1,0 +1,18 @@
+Software: python version 2.7 with pip compiler
+          Qt designer , vs code 
+
+Hardware: windows 
+
+ImportantModules: pyttsx3
+pywhatkit
+SpeechRecognition
+PyQt5
+pyaudio
+webbrowser
+wikipedia
+sys
+
+
+
+
+

@@ -1,0 +1,66 @@
+none       		TIME:[ 11:39 AM ]	DATE:[ 10-25-2022 ]
+
+play music       		TIME:[ 11:39 AM ]	DATE:[ 10-25-2022 ]
+
+none       		TIME:[ 11:42 AM ]	DATE:[ 10-25-2022 ]
+
+what is the timing       		TIME:[ 11:42 AM ]	DATE:[ 10-25-2022 ]
+
+open web browser       		TIME:[ 11:42 AM ]	DATE:[ 10-25-2022 ]
+
+open youtube       		TIME:[ 11:43 AM ]	DATE:[ 10-25-2022 ]
+
+launch website stackoverflow       		TIME:[ 11:43 AM ]	DATE:[ 10-25-2022 ]
+
+none       		TIME:[ 11:49 AM ]	DATE:[ 10-25-2022 ]
+
+play music       		TIME:[ 11:50 AM ]	DATE:[ 10-25-2022 ]
+
+none       		TIME:[ 12:13 PM ]	DATE:[ 10-25-2022 ]
+
+youtube       		TIME:[ 12:34 PM ]	DATE:[ 10-25-2022 ]
+
+is it       		TIME:[ 12:35 PM ]	DATE:[ 10-25-2022 ]
+
+search history       		TIME:[ 12:36 PM ]	DATE:[ 10-25-2022 ]
+
+none       		TIME:[ 12:36 PM ]	DATE:[ 10-25-2022 ]
+
+wait for a second       		TIME:[ 12:36 PM ]	DATE:[ 10-25-2022 ]
+
+play music       		TIME:[ 05:02 PM ]	DATE:[ 10-25-2022 ]
+
+stop for second       		TIME:[ 05:03 PM ]	DATE:[ 10-25-2022 ]
+
+for second       		TIME:[ 05:16 PM ]	DATE:[ 10-25-2022 ]
+
+assam police       		TIME:[ 05:17 PM ]	DATE:[ 10-25-2022 ]
+
+ok jarvis aur wait for second       		TIME:[ 05:17 PM ]	DATE:[ 10-25-2022 ]
+
+jarvis wait a minute       		TIME:[ 05:32 PM ]	DATE:[ 10-25-2022 ]
+
+wait for a second       		TIME:[ 05:35 PM ]	DATE:[ 10-25-2022 ]
+
+second       		TIME:[ 05:39 PM ]	DATE:[ 10-25-2022 ]
+
+it for second       		TIME:[ 05:39 PM ]	DATE:[ 10-25-2022 ]
+
+wait for second       		TIME:[ 05:40 PM ]	DATE:[ 10-25-2022 ]
+
+wait for a minute       		TIME:[ 05:42 PM ]	DATE:[ 10-25-2022 ]
+
+thank you       		TIME:[ 05:44 PM ]	DATE:[ 10-25-2022 ]
+
+wait       		TIME:[ 05:44 PM ]	DATE:[ 10-25-2022 ]
+
+open google       		TIME:[ 05:55 PM ]	DATE:[ 10-25-2022 ]
+
+wait a second       		TIME:[ 05:56 PM ]	DATE:[ 10-25-2022 ]
+
+none       		TIME:[ 05:56 PM ]	DATE:[ 10-25-2022 ]
+
+javascript javascript       		TIME:[ 09:38 AM ]	DATE:[ 10-26-2022 ]
+
+jarvis quit       		TIME:[ 09:38 AM ]	DATE:[ 10-26-2022 ]
+
