@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1592</width>
+    <height>927</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="spekerauto">
+    <property name="geometry">
+     <rect>
+      <x>-150</x>
+      <y>-30</y>
+      <width>1741</width>
+      <height>961</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../Users/bhoir/OneDrive/Documents/Pictures/Screenshots/Screenshot (89).png</pixmap>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>730</x>
+      <y>380</y>
+      <width>171</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../Users/bhoir/OneDrive/Documents/Pictures/Saved Pictures/spek2.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Ginfo">
+    <property name="geometry">
+     <rect>
+      <x>1020</x>
+      <y>580</y>
+      <width>61</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: transparent;</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="speker">
+    <property name="geometry">
+     <rect>
+      <x>720</x>
+      <y>380</y>
+      <width>191</width>
+      <height>151</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>../Users/bhoir/OneDrive/Documents/Pictures/Saved Pictures/spek2.gif</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Ginfo_2">
+    <property name="geometry">
+     <rect>
+      <x>1020</x>
+      <y>580</y>
+      <width>61</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:transparent;
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="news">
+    <property name="geometry">
+     <rect>
+      <x>1070</x>
+      <y>470</y>
+      <width>41</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:transparent;
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="alarm">
+    <property name="geometry">
+     <rect>
+      <x>1070</x>
+      <y>350</y>
+      <width>41</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:transparent;
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="music">
+    <property name="geometry">
+     <rect>
+      <x>1020</x>
+      <y>260</y>
+      <width>61</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:transparent;
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="setting">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>150</y>
+      <width>91</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:transparent;
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="email">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>150</y>
+      <width>91</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color:transparent;
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="startbut">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>770</y>
+      <width>101</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 14pt &quot;Segoe Fluent Icons&quot;;
+color: rgb(47, 255, 255);
+border:1px solid aqua;
+border-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>  START</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="quitbut">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>770</y>
+      <width>101</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 14pt &quot;Segoe Fluent Icons&quot;;
+color:red;
+border:1px solid red;
+border-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>   QUIT</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="whats">
+    <property name="geometry">
+     <rect>
+      <x>1380</x>
+      <y>200</y>
+      <width>171</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 14pt &quot;Segoe Fluent Icons&quot;;
+color: rgb(47, 255, 255);
+border:1px solid aqua;
+border-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>    Whatsapp</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="youtube">
+    <property name="geometry">
+     <rect>
+      <x>1380</x>
+      <y>370</y>
+      <width>171</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 14pt &quot;Segoe Fluent Icons&quot;;
+color: rgb(47, 255, 255);
+border:1px solid aqua;
+border-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>    YouTube</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="github">
+    <property name="geometry">
+     <rect>
+      <x>1380</x>
+      <y>540</y>
+      <width>171</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 14pt &quot;Segoe Fluent Icons&quot;;
+color: rgb(47, 255, 255);
+border:1px solid aqua;
+border-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>     GitHub</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="linkedin">
+    <property name="geometry">
+     <rect>
+      <x>1380</x>
+      <y>710</y>
+      <width>171</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 14pt &quot;Segoe Fluent Icons&quot;;
+color: rgb(47, 255, 255);
+border:1px solid aqua;
+border-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>    LinkedIn</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="vscode">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>790</y>
+      <width>171</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 14pt &quot;Segoe Fluent Icons&quot;;
+color: rgb(47, 255, 255);
+border:1px solid aqua;
+border-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>     VS-CODE</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="notepad">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>650</y>
+      <width>171</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 14pt &quot;Segoe Fluent Icons&quot;;
+color: rgb(47, 255, 255);
+border:1px solid aqua;
+border-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>    NotePad</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
