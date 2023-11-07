@@ -1,1 +1,3 @@
-# MINI PROJECT FOR SECOND YEAR 2022-23
+# 2nd year Mini-Project SEM-2
+
+## Jarvis-Personal Assistant 
