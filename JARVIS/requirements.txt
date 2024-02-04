@@ -14,5 +14,5 @@ sys
 
 
 
-
+## NOTE: you need to change the paths in the code according to your laptop directories and important paths.
 
